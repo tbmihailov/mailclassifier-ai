@@ -1,0 +1,40 @@
+http://imsc-dmim.usc.edu/publications/Youn-CISSE.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.2910&rep=rep1&type=pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.206.3185
+http://www.cs.rpi.edu/~szymansk/theses/ozcaglar.08.ms.pdf
+http://people.cs.umass.edu/~yanlei/publications/pakdd00.pdf
+
+-------MORE--
+http://management.haifa.ac.il/images/info_people/ron_bekkerman_files/document%20classification%20on%20enron%20email%20dataset.pdf - read
+https://www.cs.cmu.edu/~enron/
+http://arg.vsb.cz/arg/Enron_Corpus/ - parsed enron corpus - read
+http://ceas.cc/2004/168.pdf - introducing the enron corpus - read
+http://ortho.clmed.ncku.edu.tw/~emba/2006EMBA_MIS/3_16_2006/WekaIntro.pdf - weka intro - read
+http://imsc-dmim.usc.edu/publications/Youn-CISSE.pdf - read
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.2910&rep=rep1&type=pdf - read 
+
+Weka
+http://www.aboutdatamining.com/tutorials/weka-tutorial-1-preparing-the-weka-arff-input-file/
+http://weka.wikispaces.com/Use+WEKA+in+your+Java+code
+
+---
+Eclipse with weka tutorial:
+http://www.cs.umb.edu/~ding/history/480_697_spring_2013/homework/WekaJavaAPITutorial.pdf
+
+http://www.unal.edu.co/diracad/einternacional/Weka.pdf - text classification and clustering
+http://ianma.wordpress.com/2010/01/16/weka-with-java-eclipse-getting-started/ - getting started with weka in eclipse
+
+http://weka.wikispaces.com/ARFF+files+from+Text+Collections -- Directory to Weka DataSet
+http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf - read
+
+----------------------------------------------
+http://weka.wikispaces.com/MessageClassifier
+
+
+http://bailando.sims.berkeley.edu/enron_email.html - enron database mysql
+
+------Explanation of SMO parameters in weka 
+http://list.waikato.ac.nz/pipermail/wekalist/2010-December/050570.html
+
+
+--Code resources - http://stackoverflow.com/questions/4790844/how-to-get-the-list-of-available-folders-in-a-mail-account-using-javamail

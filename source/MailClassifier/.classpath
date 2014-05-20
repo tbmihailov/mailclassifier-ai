@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/lib/imap.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/javamail-1.4.7/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="E:/Program Files/Weka-3-6/weka.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/jsoup-1.7.3/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/MailClassification/libs/xstream-1.4.7/xstream-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
