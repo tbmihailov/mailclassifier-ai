@@ -1,0 +1,39 @@
+Time taken to build model: 5.11 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2493               92.6077 %
+Incorrectly Classified Instances       199                7.3923 %
+Kappa statistic                          0.9015
+Mean absolute error                      0.0186
+Root mean squared error                  0.1355
+Relative absolute error                  9.925  %
+Root relative squared error             44.2921 %
+Total Number of Instances             2692     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.832     0.001      0.986     0.832     0.903      0.997    Acstre
+                 0.919     0.005      0.919     0.919     0.919      0.986    FMI
+                 0.994     0.002      0.996     0.994     0.995      0.999    News
+                 1         0.039      0.037     1         0.071      0.997    Notes
+                 0.804     0.002      0.984     0.804     0.885      0.995    Orders
+                 0.589     0.012      0.688     0.589     0.635      0.953    Projects
+                 0.979     0.025      0.958     0.979     0.968      0.986    Social
+                 0.902     0          1         0.902     0.949      0.973    Travel
+Weighted Avg.    0.926     0.011      0.961     0.926     0.941      0.99 
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   <-- classified as
+ 144   6   0  20   0   2   1   0 |   a = Acstre
+   1 136   0   2   0   5   4   0 |   b = FMI
+   0   0 766   0   2   3   0   0 |   c = News
+   0   0   0   4   0   0   0   0 |   d = Notes
+   0   0   0  74 315   3   0   0 |   e = Orders
+   1   4   0   3   0  66  38   0 |   f = Projects
+   0   2   0   4   0  15 979   0 |   g = Social
+   0   0   3   1   3   2   0  83 |   h = Travel
+
